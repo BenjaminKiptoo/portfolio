@@ -2,7 +2,7 @@
 
 #### By _**Benjamin Kiptoo**_
 
-#### _This is a portfolio webpage for a forex company._
+#### _This is an individual's portfolio webpage._
 
 #### Technologies used
 
