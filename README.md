@@ -14,11 +14,14 @@
 
 _This is an example of a portfolio webpage build using html,css and Javascript.The webpage is a simple and effective way of displaying the resume of the indivual._
 
+##### _Follow the link below to view the webpage_
+https://superlative-blini-492f2f.netlify.app
+
 ## Setup/Installation Requirements
 
 * _Clone this repository in your dektop_
 *  _Navigate to top level of directory_
-* _Open in your web browser
+* _Open in your web browser_
 
 ## Known Bugs
 
